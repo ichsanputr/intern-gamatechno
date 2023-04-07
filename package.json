@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt generate --output public",
+    "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "vercel-build": "nuxt generate"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
