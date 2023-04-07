@@ -41,10 +41,10 @@ export default {
         }
     },
     async fetch() {
-        const { data } = await axios.get('http://localhost:3000/json/education.json')
+        const { data } = await axios.get('https://portfolio.muhammadichsan.com/json/education.json')
         this.dataEducation = data.data
 
-        const data_skill = await axios.get('http://localhost:3000/json/skill.json')
+        const data_skill = await axios.get('https://portfolio.muhammadichsan.com/json/skill.json')
         this.dataSkill = data_skill.data.data
     },
 }

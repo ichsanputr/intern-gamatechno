@@ -24,7 +24,7 @@ export default {
         }
     },
     async fetch() {
-        const { data } = await axios.get('http://localhost:3000/json/experience.json')
+        const { data } = await axios.get('https://portfolio.muhammadichsan.com/json/experience.json')
         this.dataExperience = data.data
         console.log(this.dataExperience)
     },

@@ -23,7 +23,7 @@ export default {
         }
     },
     async fetch() {
-        const { data } = await axios.get('http://localhost:3000/json/blog.json')
+        const { data } = await axios.get('https://portfolio.muhammadichsan.com/json/blog.json')
         this.dataBlog = data.data
     },
     name: 'Blog Page'

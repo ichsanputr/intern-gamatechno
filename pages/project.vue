@@ -19,7 +19,7 @@ export default {
         }
     },
     async fetch() {
-        const { data } = await axios.get('http://localhost:3000/json/project.json')
+        const { data } = await axios.get('https://portfolio.muhammadichsan.com/json/project.json')
         this.dataProject = data.data
         console.log(this.dataProject)
     },
