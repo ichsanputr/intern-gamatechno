@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "tech_stack": "PHP",
+            "icon": "devicon-php-plain colored",
+            "level": 4
+        },
+        {
+            "tech_stack": "Laravel",
+            "icon": "devicon-laravel-plain colored",
+            "level": 2
+        },
+        {
+            "tech_stack": "Tailwind Css",
+            "icon": "devicon-tailwindcss-plain colored",
+            "level": 2
+        },
+        {
+            "tech_stack": "Flutter",
+            "icon": "devicon-flutter-plain colored",
+            "level": 1
+        },
+        {
+            "tech_stack": "Golang",
+            "icon": "devicon-go-plain colored",
+            "level": 1
+        },
+        {
+            "tech_stack": "Git",
+            "icon": "devicon-git-plain colored",
+            "level": 1
+        },
+        {
+            "tech_stack": "Nuxt.js",
+            "icon": "devicon-nuxtjs-plain colored",
+            "level": 1
+        },
+        {
+            "tech_stack": "AWS",
+            "icon": "devicon-amazonwebservices-plain-wordmark colored",
+            "level": 1
+        }
+
+    ]
+}

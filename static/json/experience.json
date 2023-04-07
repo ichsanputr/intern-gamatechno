@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "date": "2011",
+            "detail": "My first elementary school, yeyy"
+        },
+        {
+            "date": "2017",
+            "detail": "Graduated from elementary school and continue at SMPN 1 Kalasan"
+        },
+        {
+            "date": "2020",
+            "detail": "SMKN 2 Depok iam ready :) i choose SIJA field for my high school"
+        },
+        {
+            "date": "2021",
+            "detail": "My first competition, AWS C4 at Province level, build static website and deploy at AWS Amplify and i got 2rd place"
+        },
+        {
+            "date": "2021/05",
+            "detail": "My first project with teacher, build inventory website with PHP native"
+        },
+        {
+            "date": "2021/12",
+            "detail": "My Second competition, BDA Competition Programming at National level, i do with python, elasticseacrh, and Express.js i got 1rd place with big prize"
+        },
+        {
+            "date": "2022/04",
+            "detail": "My Second project with my teacher, build wbtbdiy website with laravel and livewire"
+        },
+        {
+            "date": "2022/10",
+            "detail": "Third competition FIKSI at provincial level, I created the idea of an application to easily create a website with just one click, i got 3rd place in this competition" 
+        },
+        {
+            "date": "2023/05",
+            "detail": "Finally one month again i will participate at LKS Cloud Computing field with AWS in provincial level" 
+        }
+
+    ]
+}

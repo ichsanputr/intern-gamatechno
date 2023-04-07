@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "project": "Wbtbdiy.com",
+            "url": "https://github.com/ichsanputr/wbtbdiy",
+            "description" : "Build some feature in admin panel",
+            "stack": "Laravel",
+            "icon": "devicon-laravel-plain colored"
+        },
+        {
+            "project": "Pemilu Stembayo",
+            "url": "https://pemilu.stembayo.sch.id/",
+            "description" : "Create admin page with Vuetify",
+            "stack": "Nuxt.js",
+            "icon": "devicon-nuxtjs-plain colored"
+        },
+        {
+            "project": "Dart Filter Word",
+            "url": "https://github.com/ichsanputr/dart_filterword",
+            "description" : "A package built in dart languange for filtering bad word and particular word",
+            "stack": "Dart",
+            "icon": "devicon-dart-plain colored"        
+        },
+        {
+            "project": "Passgen",
+            "url": "https://github.com/ichsanputr/passgen",
+            "description" : "A package built in golang languange for generate a strong password with many option",
+            "stack": "Golang",
+            "icon": "devicon-go-plain colored"        
+        },
+        {
+            "project": "Persediaan",
+            "url": "https://github.com/ichsanputr/persediaan",
+            "description" : "Project web inventory build some faeture with my teacher",
+            "stack": "PHP",
+            "icon": "devicon-php-plain colored"        
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "title": "Setup Fordward & Reverse Proxy dengan NGINX",
+            "url": "https://muhammadichsan.com/blog/proxy-nginx",
+            "tag" : "DevOps"
+        },
+        {
+            "title": "1,2,3 and Lets Talk about Generic Typescript",
+            "url": "https://muhammadichsan.com/blog/typescript-generic",
+            "tag" : "Typescript"
+        },
+        {
+            "title": "Typescript - Narrowing & Typeof",
+            "url": "https://muhammadichsan.com/blog/typescript-narrowing",
+            "tag" : "Typescript"
+        },
+        {
+            "title": "Why Developer Need Git?",
+            "url": "https://dev.to/ichsanputr/why-developer-need-git-2pgi",
+            "tag" : "DevOps"
+        },
+        {
+            "title": "AWS Journey #1 : IAM - Identify Access Management",
+            "url": "https://muhammadichsan.com/blog/aws-iam",
+            "tag" : "DevOps"
+        },
+        {
+            "title": "The Father of Networking : UDP Protocol",
+            "url": "https://muhammadichsan.com/blog/deep-dive-udp",
+            "tag" : "Networking"
+        }
+    ]
+}

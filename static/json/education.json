@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "school": "SD Muhammadiyah Kadisoka",
+            "startYear": "2011",
+            "endYear" : "2017"
+        },
+        {
+            "school": "SMPN 1 Kalasan",
+            "startYear": "2017",
+            "endYear" : "2020"
+        },
+        {
+            "school": "SMKN 2 Depok",
+            "startYear": "2020",
+            "endYear" : "2024"
+        }
+    ]
+}
