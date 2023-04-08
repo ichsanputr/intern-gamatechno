@@ -1,3 +1,3 @@
 ## Portofolio Website
 
-Build with Nuxt.js availabel on 
+Build with Nuxt.js available on portfolio.muhammadichsan.com 
