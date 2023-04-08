@@ -78,7 +78,7 @@ header {
     }
 }
 .footer {
-    @apply flex flex-col items-center bg-slate-700 mt-12 text-white h-16 justify-center tracking-wider;
+    @apply flex flex-col items-center text-sm md:text-base bg-slate-700 mt-12 text-white h-16 justify-center tracking-wider;
 }
 .card {
     @apply flex flex-col items-center p-4 border-2 border-teal-300 shadow-lg;

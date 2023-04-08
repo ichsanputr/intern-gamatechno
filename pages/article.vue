@@ -1,6 +1,6 @@
 <template>
     <div id="docs">
-        <h2>Article ✍🏻</h2>
+        <h2>Article 📝</h2>
         <p class="pb-10">My article written on personal website and dev.to</p>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
             <ArticleCard v-for="blog in dataBlog" :key="blog.title" :title="blog.title" :url="blog.url" :tag="blog.tag"/>
